@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a software engineer at Johns Hopkins University in the Sheridan Libraries.  My main focus is on digital repositories and I'm currently working on setting up [Islandora 8](https://islandora.github.io/documentation/). 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bseeger@jhu.edu](mailto:bseeger@jhu.edu)
